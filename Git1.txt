@@ -1,0 +1,5 @@
+git config --global user.name "piyushchhakuriya"{to connect my github to git globally taaki baar mujhe connect na karna pade isliye ek baar main hi kara diyaa}
+git config --global user.email "chhakuriyaji@gmail.com" {to connect my github to git globally taaki baar mujhe connect na karna pade isliye ek baar main hi kara diyaa}
+configuration hogyi ki nahi wo is command se check kar sakte hain git config --list
+ab jo hai git and github aapas main untegrTE HO CHUKE HAIN
+
